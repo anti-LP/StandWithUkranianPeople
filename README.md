@@ -12,9 +12,9 @@ All funds are sended to UKRAIN for help it! <br/>
 
 ### TODO
 
-[ ] Get Start-up capital for publish NFT
-[ ] Create collection (***ON PROGRESS***)
-[ ] Publish NFT on OpenSea
-[ ] Upload NFT on IFPS
-[ ] Transfer all funds to people
-[ ] Create Splash page for all this propouse
+ [ ]	Get Start-up capital for publish NFT <br/>
+ [ ]	Create collection (***ON PROGRESS***) <br/>
+ [ ]	Publish NFT on OpenSea <br/>
+ [ ]	Upload NFT on IFPS <br/>
+ [ ]	Transfer all funds to people <br/>
+ [ ]	Create Splash page for all this propouse <br/>
