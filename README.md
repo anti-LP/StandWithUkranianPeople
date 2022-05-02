@@ -1,7 +1,7 @@
-# HELP TO UKRANIAN PEOPLE PROGRAM
+# HELP TO UKRANIAN PEOPLE PROGRAM 🇺🇦
 
 We are preparign a special collection of ***NFT*** that will soon be published on ***OpenSea*** to make donations to those who need it. <br/>
-All funds are sended to UKRAIN for help it! <br/>
+All funds are sended to UKRAIN people for help it! <br/>
 
 ## DONATION ADDRESSES
 
@@ -10,11 +10,21 @@ All funds are sended to UKRAIN for help it! <br/>
 [BNB] bnb1mg8zdqvpwyahdk6na9dtlskapq3sqm057f3lax <br/>
 [BNB SCH] 0x1080a07505913F1465A1800e99116d2665CBa9E5 <br/>
 
-### TODO
+## Aportations 👥
 
- [ ]	Get Start-up capital for publish NFT <br/>
- [ ]	Create collection (***ON PROGRESS***) <br/>
- [ ]	Publish NFT on OpenSea <br/>
- [ ]	Upload NFT on IFPS <br/>
- [ ]	Transfer all funds to people <br/>
- [ ]	Create Splash page for all this propouse <br/>
+You can create pull request with your work Image.<br/>
+When there are have funds, it will be published within the collection.
+
+## TEMPLATE
+
+Image size: 600x600px 72dpi with 24px border radius.
+
+### TODO Route list
+- [ ] Get Start-up capital for publish NFT <br/>
+- [ ] Create collection (***ON PROGRESS***) <br/>
+- [ ] Publish NFT on OpenSea <br/>
+- [ ] Upload NFT on IFPS <br/>
+- [ ] Transfer all funds to people <br/>
+- [ ] Create Splash page for all this propouse <br/>
+- [x] Create Profile on OpenSea
+
