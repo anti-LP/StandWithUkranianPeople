@@ -3,7 +3,8 @@
 We are preparign a special collection of ***NFT*** that will soon be published on ***OpenSea*** to make donations to those who need it. <br/>
 All funds are sended to UKRAIN people for help it! <br/>
 
-Our page: [standwithukranianpeople.github.io]
+Our page: [https://anti-lp.github.io/StandWithUkranianPeople/]
+Our collection on OpenSea: [https://opensea.io/collection/stand-with-urkarian-people]
 
 ## DONATION ADDRESSES
 
